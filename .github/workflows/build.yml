@@ -7,17 +7,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      
-      - name: Set up Python 3.10
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.10
-
       - name: Build APK
         uses: digreatbrian/buildozer-action@v2
         with:
-          python-version: 3.10
+          python-version: 3.8
           buildozer-cmd: buildozer -v android debug
 
       - name: Upload artifacts
