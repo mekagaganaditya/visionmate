@@ -1,0 +1,81 @@
+Object,class_id,Width(cm),height
+person,1,46,170
+bicycle,2,40,100
+car,3,175,150
+motorcycle,4,50,100
+airplane,5,100,300
+bus,6,250,300
+train,7,100,350
+truck,8,250,300
+boat,9,300,100
+traffic light,10,30,90
+fire hydrant,11,15,60
+stop sign,12,30,30
+parking meter,13,10,120
+bench,14,50,45
+bird,15,15,15
+cat,16,20,25
+dog,17,30,40
+horse,18,50,150
+sheep,19,80,80
+cow,20,60,120
+elephant,21,300,200
+bear,22,100,90
+zebra,23,150,150
+giraffe,24,150,500
+backpack,25,30,40
+umbrella,26,30,80
+handbag,27,30,25
+tie,28,5,150
+suitcase,29,50,70
+frisbee,30,30,30
+skis,31,30,200
+snowboard,32,25,150
+sports ball,33,20,20
+kite,34,20,60
+baseball bat,35,10,80
+baseball glove,36,25,25
+skateboard,37,20,10
+surfboard,38,20,200
+tennis racket,39,20,70
+bottle,40,8,30
+wine glass,41,10,20
+cup,42,8,10
+fork,43,2,20
+knife,44,2,30
+spoon,45,2,15
+bowl,46,20,10
+banana,47,15,10
+apple,48,10,10
+sandwich,49,15,7
+orange,50,10,10
+broccoli,51,15,20
+carrot,52,5,25
+hot dog,53,20,5
+pizza,54,30,5
+donut,55,10,10
+cake,56,20,10
+chair,57,50,90
+couch,58,200,100
+potted plant,59,30,40
+bed,60,200,100
+dining table,61,150,75
+toilet,62,40,45
+TV,63,100,60
+laptop,64,30,2
+mouse,65,10,5
+remote,66,5,20
+keyboard,67,30,3
+cell phone,68,7,15
+microwave,69,50,30
+oven,70,80,60
+toaster,71,30,15
+sink,72,80,40
+refrigerator,73,80,160
+book,74,15,20
+clock,75,10,10
+vase,76,10,30
+scissors,77,5,20
+teddy bear,78,20,40
+hair drier,79,5,25
+toothbrush,80,2,20
