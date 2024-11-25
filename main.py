@@ -52,21 +52,9 @@ class ObjectDetectionApp(App):
         # Create the image widget for displaying the camera feed
         self.image = Image()
         layout.add_widget(self.image)
-        from google.colab import drive
-        import torch
-
-# Mount Google Drive
-        drive.mount('/content/drive')
-
-
-
-
-
-
-# Path to the .pt file on Google Drive
-        file_path = '/content/drive/My Drive/yolov8l.pt'
+        
         # Load YOLO model
-        self.model = YOLO(file_path)
+        self.model = YOLO('yolov8l.pt')
 
         # Load class names
         with open('coco.names', 'r') as f:
